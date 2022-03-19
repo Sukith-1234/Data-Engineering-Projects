@@ -6,6 +6,6 @@ User_Final.CSV -> It is the final cleansed user data file which used to connect 
 
 SQL-Script-Schema Only.sql -> Schema of  Database created for this problem (User table) in MSSQL.
 
-script with data.sql -> Include the schema and user data after push by Azure Data Factory.
+script with data.sql -> Include the schema and user data after push data by Azure Data Factory.
 
 User-Analysis-Python-Project-Databricks.html ->Includes python codes which shows  how the establish connection between Azure SQL Database and Azure Databricks using python enviorenment and algortihms and queries for Part 2.
