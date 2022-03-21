@@ -10,7 +10,9 @@ SQL-Script-Schema Only.sql -> Schema of  Database created for this problem (User
 
 script with data.sql -> Include the schema and user data after push data by Azure Data Factory.
 
-User_Analysis_Final.ipynb-notebook file include the process and codes which use for the analytics
+User_Analysis_Final.ipynb -> notebook file include the process and codes which use for the analytics
+
+User_Analysis_Databricks.html -> Databricks solution 
 
 
 Workflow
