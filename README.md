@@ -12,7 +12,7 @@ script with data.sql -> Include the schema and user data after push data by Azur
 
 User_Analysis_Final.ipynb -> notebook file include the process and codes which use for the analytics
 
-User_Analysis_Databricks.html -> Databricks solution 
+User_Analysis_Python_Databricks.html -> Databricks solution 
 
 
 Workflow
