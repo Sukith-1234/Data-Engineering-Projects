@@ -26,4 +26,4 @@ Workflow
 9) Execute codes to run the analysis
 
 
-If python file not shows data properly please download to you desktop and open (User-Analysis-Python-Project-Databricks.html)
+If python file not shows data properly please download html (save) to you desktop and open (User-Analysis-Python-Project-Databricks.html)
