@@ -30,5 +30,5 @@ Workflow
 
 If python file not shows data properly please download html (save) to you desktop and open (User_Analysis_Project.html)
 
-User_Analysis_Final.ipynb-Include procedure of direct conncetion using pyodbc library
+User_Analysis_Final.ipynb-Include procedure of direct conncetion (SQL DB) using pyodbc library
 
