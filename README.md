@@ -10,7 +10,7 @@ SQL-Script-Schema Only.sql -> Schema of  Database created for this problem (User
 
 script with data.sql -> Include the schema and user data after push data by Azure Data Factory.
 
-User-Analysis-Python-Project-Databricks.html ->Includes python codes which shows  how the establish connection between Azure SQL Database and Azure Databricks using python enviorenment and algortihms and queries for Part 2.
+User-Analysis-Project.html ->Includes python codes which shows  how the establish connection between Azure SQL Database and Azure Databricks using python enviorenment and algortihms and queries analysis for Part 2 Questions
 
 
 Workflow
