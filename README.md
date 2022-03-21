@@ -24,3 +24,6 @@ Workflow
 7) script with data.sql shows the all the inject data of Azure SQL DB
 8) Using Databricks connect Azure SQL with Python (Databricks Python Enviorenment) -Inside python file (User-Analysis-Python-Project-Databricks.html) connection string Insert your sever name,database name,user name and password to make connection with Azure SQL DB
 9) Execute codes to run the analysis
+
+
+If python file not shows data properly please download to you desktop and open (ser-Analysis-Python-Project-Databricks.html)
