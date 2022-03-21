@@ -12,9 +12,7 @@ script with data.sql -> Include the schema and user data after push data by Azur
 
 User_Analysis_Final.html ->Includes python codes which shows  how the establish connection between Azure SQL Database and Azure Databricks using python enviorenment and algortihms and queries analysis for Part 2 Questions
 
-User_Analysis_Final.py ->.py type file
-
-User_Analysis_Final.ipynb-notebook
+User_Analysis_Final.ipynb-notebook (open in jupyter notebook)
 
 
 Workflow
@@ -31,3 +29,6 @@ Workflow
 
 
 If python file not shows data properly please download html (save) to you desktop and open (User_Analysis_Project.html)
+
+User_Analysis_Final.ipynb-Include procedure of direct conncetion using pyodbc library
+
